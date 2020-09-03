@@ -12,3 +12,6 @@ et on continue
 et la phrase clé pour balancer
 = git push -u origin master
 = git push -u origin
+#
+= < git push -u >
+j'arrive pas à comprendre un truc!
