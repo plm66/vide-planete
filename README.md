@@ -15,4 +15,7 @@ et la phrase clé pour balancer
 #
 = < git push -u >
 j'arrive pas à comprendre un truc!
-quoi par exemeple ?
+quoi par exemple ?
+Rien < git push u fonctionne
+gitcommit -am "coments" fonctionne
+tout va bien!
